@@ -13,7 +13,7 @@
 
 ### 为了得到可以解压的软甲包，就需要将文件的拓展名称进行修改，也就是将文件的后面的.lat进行删除，因为一般的解压软件包的后缀名为.rar或者.zip等，于是我们就可以得到了这个结果
 
-![image-20240802002805034](C:\Users\zheng\AppData\Roaming\Typora\typora-user-images\image-20240802002805034.png)
+![image-20240802002805034](https://cdn.jsdelivr.net/gh/wenyang015/images/img/image-20240802002805034.png)
 
 ### 首先告诉结果，这个软件包的并不完全，直接压缩是无法完全得到结果的，需要使用winrar软件来将这个压缩包先进行修复，[winrar下载](https://www.winrar.com.cn/),推荐使用这个软件
 
@@ -27,7 +27,7 @@
 
 3. 之后就会得到修复好的压缩包
 
-   ![image-20240802003740495](C:\Users\zheng\AppData\Roaming\Typora\typora-user-images\image-20240802003740495.png)
+   ![image-20240802003740495](https://cdn.jsdelivr.net/gh/wenyang015/images/img/image-20240802003740495.png)
 
 4. 然后再进行解压，密码网站有，qingju，相对于360压缩，winrar舒服了:laughing:
 
@@ -45,6 +45,6 @@
 
 ### 之后就可以点击下面文件来愉快地进行游玩了
 
-![image-20240802004512584](C:\Users\zheng\AppData\Roaming\Typora\typora-user-images\image-20240802004512584.png)
+![image-20240802004512584](https://cdn.jsdelivr.net/gh/wenyang015/images/img/image-20240802004512584.png)
 
 ![image-20240802004529594](https://cdn.jsdelivr.net/gh/wenyang015/images/img/image-20240802004529594.png)
