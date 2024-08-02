@@ -3,7 +3,7 @@
 ## [steam正版链接](https://store.steampowered.com/app/802880/MuvLuv/)
 
 ![image-20240801234706359](https://cdn.jsdelivr.net/gh/wenyang015/images/img/image-20240801234706359.png)
-## 下载链接：通过[青桔官网](https://spare.qingqu.org/)来进行下载，进入界面之后直接在搜索框中搜索muv也就可以了，然后直接百度网盘下载
+## 下载链接：通过[青桔官网](https://spare.qingju.org/)来进行下载，进入界面之后直接在搜索框中搜索muv也就可以了，然后直接百度网盘下载,直接通过正常的网络好像是是要靠运气才能进
 > 温馨提示：为了更好的体验，可以通过购买梯子来提高加载速度，梯子下载链接，[番茄v2](https://app.fanqiev2.work/)
 ## 下载完成之后
 
