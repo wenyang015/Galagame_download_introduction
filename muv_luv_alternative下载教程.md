@@ -15,7 +15,7 @@
 
 ![image-20240802002805034](https://cdn.jsdelivr.net/gh/wenyang015/images/img/image-20240802002805034.png)
 
-### 首先告诉结果，这个软件包的并不完全，直接压缩是无法完全得到结果的，需要使用winrar软件来将这个压缩包先进行修复，[winrar下载](https://www.winrar.com.cn/),推荐使用这个软件
+### 首先告诉结果，这个软件包并不完整，直接压缩是无法完全得到结果的，需要使用winrar软件来将这个压缩包先进行修复，[winrar下载](https://www.winrar.com.cn/),推荐使用这个软件
 
 1. 打开winrar之后，进入界面，点击修复，也就是右上角的绿色的按钮
 
